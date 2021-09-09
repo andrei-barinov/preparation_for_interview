@@ -1,7 +1,7 @@
 package main.java.ru.gb.home_task_2.my_linked_list;
 
 import main.java.ru.gb.home_task_2.my_linked_list.Node;
-
+//
 public class MyLinkedList<T> {
     private Node<T> first;
     private Node<T> last;

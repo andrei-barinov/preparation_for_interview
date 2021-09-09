@@ -1,5 +1,5 @@
 package main.java.ru.gb.home_task_2.my_linked_list;
-
+//
 public class Node<E> {
     Node<E> previous;
     Node<E> next;
